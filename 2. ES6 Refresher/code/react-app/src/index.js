@@ -269,3 +269,43 @@
 
 //default export import ... from "".
 //named export import { }.... from  ""
+
+
+
+
+
+
+
+
+//summary
+
+// in this chapter we learn that 
+// var is function base
+// let is block base and re assignable
+// const is also block base but not reassignable
+
+// objects can be called in 2 ways
+// dot method 
+// and bracket method which is used when we dont know what propery user want to access
+
+// if we call this as method it will return reference of that object
+// if we call this as a stand alone it will return window object 
+// by using binding we can set the value of (this) = permently 
+
+// arrow function
+// =()=>{}
+
+// call back function are stand alone function
+
+// if we use arrow function in the object method ; we can have instance of (this) in the set time out  otherwise we wil get window object 
+
+
+// array map is use to get all element easily in an order
+
+// object destructure is used to easily get all property of object easilt
+
+// spread operator help in cloning and easily concatentation
+
+// if we have multiple person objects and we got mistake we have to go and change everywhere thats why we use classes
+
+// inheritance is used to use to call function from parents and reuse them
