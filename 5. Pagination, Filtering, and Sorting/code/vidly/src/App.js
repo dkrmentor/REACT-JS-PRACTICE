@@ -1,15 +1,15 @@
 import React, { Component } from "react";
 import "./App.css";
-import Movies from "./components/movies";
-
+import Movies2 from "./components/movies2";
 
 function App() {
+
   return (
+
     <main className="container">
       <h1>Home Calling Movies</h1>
-
-      <Movies />
- 
+    
+      <Movies2 />
     </main>
   );
 }
